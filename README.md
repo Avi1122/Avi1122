@@ -1,5 +1,5 @@
 # 💫 About Me:
-- I'm currently working on:  Building scalable web applications with React, Node.js, and TypeScript.  <br>- 🤝 I'm looking to collaborate on: Open-source projects in web development, automation, and AI/ML.  <br>- 🙋 I'm looking for help with:  Improving my skills in Docker and Kubernetes for container orchestration.  <br>- 📖 I'm currently learning: Advanced concepts in cloud computing with AWS and DevOps practices.  <br>- 💬 Ask me about: JavaScript, front-end frameworks, and optimizing web performance.  <br><br>Fun fact :<br>I can read a 500-page book in one sitting, and I'm an aspiring minimalist trying to live with less but experience more!  
+- I'm currently working on:  Building scalable web applications with React, Node.js, and TypeScript.  <br>- 🤝 I'm looking to collaborate on: Open-source projects in web development, automation, and AI/ML.  <br>- 🙋 I'm looking for help with:  Improving my skills in Docker and Kubernetes for container orchestration.  <br>- 📖 I'm currently learning: Advanced concepts in cloud computing with AWS and DevOps practices.  <br>- 💬 Ask me about: JavaScript, front-end frameworks, and optimizing web performance.  <br><br>Fun fact :<br>I can read a 100-page book in one sitting, and I'm an aspiring minimalist trying to live with less but experience more!  
 
 
 ## 🌐 Socials:
